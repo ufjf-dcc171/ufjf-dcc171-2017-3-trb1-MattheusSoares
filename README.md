@@ -2,6 +2,8 @@ Mattheus Soares Santos - 201465580C - Ciência da Computação Integral
 
 Uma lanchonete com 5 mesas e um cardápio de hambúrguers;
 
+Foi admitido ter mais de um pedido por mesa, caso os clientes da mesa desejam pagar por itens separados;
+
 Existem dois modelos de dados, o do pedido e o do item(do cardápio).
 O pedido contém o número da mesa, os itens pedidos, o valor total, horário da abertura do pedido e do fechamento, e uma flag 'aberto' para verificar se o pedido ainda está aberto ou não (0 - inicializado, 1 - aberto, 2 - fechado );
 
